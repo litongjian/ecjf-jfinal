@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfinal-2.0-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jf-jt/web/lib/jfinal-2.0-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
